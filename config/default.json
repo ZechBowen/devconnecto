@@ -1,0 +1,8 @@
+{
+    "mongoURI": "mongodb+srv://zechbowen97:zechbowen97@devconnector.kk7aquu.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "b3fda9ea780ef037d4dd",
+    "githubSecret": "9842e033a1395afcae8cfa08c52734cc5132d215",
+    "githubToken": "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"
+}
+
